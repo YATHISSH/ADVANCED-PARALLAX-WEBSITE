@@ -1,0 +1,15 @@
+# ADVANCED-PARALLAX-WEBSITE
+TRAVEL AND EXPLORE PARALLAX WEBSITE (DETAILED OVERVIEW)
+IN THIS PROJECT I HAVE GIVEN A DETAILED OVERVIEW OF TRAVELLING AND EXPLORING IN INDIA WITH SUFFICIENT MAGAZINE OUTLOOK, RESTAURANTS, RENTALS, AND TRAVEL TICKETS...
+
+![Image](https://user-images.githubusercontent.com/122886617/232841587-b8895578-28a5-4163-8327-0c2e9c9db41f.png)
+
+![Image](https://user-images.githubusercontent.com/122886617/232841820-0c86cf6b-abb4-469f-b9d8-055de2c8a92c.png)
+
+
+
+![Image](https://user-images.githubusercontent.com/122886617/232841910-8d4d7a91-568d-46d7-a7ee-13e6ddf6e238.png)
+
+
+
+![Image](https://user-images.githubusercontent.com/122886617/232842014-171330ca-656f-47be-8be9-12b0f5f6548d.png)
